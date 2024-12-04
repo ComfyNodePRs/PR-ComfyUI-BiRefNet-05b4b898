@@ -1,4 +1,4 @@
-# ComfyUI-BiRefNet
+# ComfyUI-BiRefNet-Fix-BiRefNet-utils
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Bilateral Reference Network achieves SOTA result in multi Salient Object Segment
 ## Installation 
 
 1. Go to comfyUI custom_nodes folder, `ComfyUI/custom_nodes/`
-2. `git clone https://github.com/viperyl/ComfyUI-BiRefNet.git `
+2. `git clone https://github.com/hieuck/ComfyUI-BiRefNet.git `
 3. `pip install requirements.txt`
 
 ## Download Model Checkpoints
