@@ -1,4 +1,4 @@
-# ComfyUI-BiRefNet
+# ComfyUI-BiRefNet-Fix-BiRefNet-utils
 
 ## Introduction
 
